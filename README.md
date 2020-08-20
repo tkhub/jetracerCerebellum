@@ -1,4 +1,4 @@
-# jetsonNanoCerebellum
+# jetracerCerebellum
 This system is designed for jetracer.
 The function is (will be) bellow.
 - Measurement and Provide R/C reciver signal (ONLY Futaba 2.4GHz).
